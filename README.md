@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Gandhi</h1>
-<h3 align="center">A seasoned software developer and aspiring Devops engineer</h3>
+<h3 align="center">A seasoned software developer and aspiring DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil323&label=Profile%20views&color=0e75b6&style=flat" alt="harshil323" /> </p>
 
